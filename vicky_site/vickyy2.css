@@ -1,0 +1,26 @@
+main{
+font-family: serif;
+font-size: 20px;
+line-height: 1.0;
+text-align: center;
+color: #000000;
+position: relative;
+text-align: center;
+background-color: #FFFFFF;
+margin: 100px 200px 100px 200px;
+pading: 10px;
+}
+
+body{
+background-color:  #ADD8E6;
+}
+
+img.v{
+position: relative;
+left: 0px;
+}
+
+footer{
+text-align: center;
+}
+
